@@ -1,0 +1,11 @@
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Interfaces and Abstraction - Lab\Shapes\bin\Debug\netcoreapp3.1\Shapes.exe
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Interfaces and Abstraction - Lab\Shapes\bin\Debug\netcoreapp3.1\Shapes.deps.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Interfaces and Abstraction - Lab\Shapes\bin\Debug\netcoreapp3.1\Shapes.runtimeconfig.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Interfaces and Abstraction - Lab\Shapes\bin\Debug\netcoreapp3.1\Shapes.runtimeconfig.dev.json
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Interfaces and Abstraction - Lab\Shapes\bin\Debug\netcoreapp3.1\Shapes.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Interfaces and Abstraction - Lab\Shapes\bin\Debug\netcoreapp3.1\Shapes.pdb
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Interfaces and Abstraction - Lab\Shapes\obj\Debug\netcoreapp3.1\Shapes.csprojAssemblyReference.cache
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Interfaces and Abstraction - Lab\Shapes\obj\Debug\netcoreapp3.1\Shapes.AssemblyInfoInputs.cache
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Interfaces and Abstraction - Lab\Shapes\obj\Debug\netcoreapp3.1\Shapes.AssemblyInfo.cs
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Interfaces and Abstraction - Lab\Shapes\obj\Debug\netcoreapp3.1\Shapes.dll
+C:\Users\GL72M 7RDX-1043CZ\source\repos\Interfaces and Abstraction - Lab\Shapes\obj\Debug\netcoreapp3.1\Shapes.pdb
